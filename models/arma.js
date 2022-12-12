@@ -11,6 +11,6 @@ class Arma {
       this.valor = valor
     }
   }
-  
+
   module.exports = arma
   
